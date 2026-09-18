@@ -284,7 +284,3 @@ feita aqui:
 - **Matriz cheia**: se as 100 amostras já estiverem ocupadas, a opção 2
   apenas avisa o usuário e não sobrescreve nada, em vez de travar ou
   sobrescrever uma amostra existente.
-
----
-
-Desenvolvido com apoio do [Claude Code](https://claude.com/claude-code).
